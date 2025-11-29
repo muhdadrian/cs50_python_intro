@@ -1,0 +1,77 @@
+CS50 HARVARD: PYTHON
+
+@ main.py
+
+#int.py
+#float.py
+#def.py
+#average.py
+
+@ compare.py
+
+@ grade.py
+
+@ parity.py.
+
+@ house.py
+
+@ cat.py
+
+@ hogwarts.py
+
+@ mario.py
+
+@ number.py
+
+@ generate.py
+
+@ name.py — command-line
+
+@ say.py
+
+@ itunes.py
+
+@ sayings.py
+
+@ calculator & test_calculator.py — unit test
+
+@ hello.py & test_hello.py
+
+@ names.py & names.txt
+
+@ students.py & students.csv
+
+@ costume — gif & py — making gif
+
+@ validate.py -- Regex
+
+@ format.py -- Regex
+
+@ twitter.py -- Regex
+
+@ student.py -- OOP
+
+@ type.py
+
+@ hat.py -- OOP & ClassMethod
+
+@ wizard.py -- inheritance & OOP
+
+@ vault.py
+
+@ houses.py-- OOP
+
+@ bank.py
+
+@ meows.py
+
+@ unpack.py
+
+@ yell.py
+
+@ gryffindors.py
+
+@ sleep.py
+
+@ say.py
+

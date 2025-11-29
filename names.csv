@@ -1,0 +1,11 @@
+Adrian,Tambunan
+Hafizah,Labuan
+Sarah,Tambunan
+Fatih,Tambunan
+Fariq,Labuan
+
+# csv (comma separated values) -- common convention to store multiple pieces of info that are related in the same file
+# use .csv instead of .txt to store multiple
+# .csv use to import or export the data -- numbers, excel, google spreadsheet etc.
+# row by row is representing name
+# the commas representing columns
